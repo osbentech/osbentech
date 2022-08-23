@@ -2,9 +2,9 @@
 <img align='right' src="https://media3.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230">
 <p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/D75kF1uhr6ZLzexQq2/giphy.gif" width="100"></p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Abdelrhman%20Samy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-ejike-632248206)](https://www.linkedin.com/in/benjamin-ejike-632248206/)
-[![Twitter Badge](https://img.shields.io/badge/-@osbentech_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Mov_abd)](https://twitter.com/)
-[![facebook Badge](https://img.shields.io/badge/-Abdelrhman%20Samy-informational?style=flat-square&labelColor=black&logo=facebook&link=https://www.facebook.com/ejike.ben1)](https://www.facebook.com/ejike.ben1)
+[![Linkedin Badge](https://img.shields.io/badge/-Benjamin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjamin-ejike-632248206)](https://www.linkedin.com/in/benjamin-ejike-632248206/)
+[![Twitter Badge](https://img.shields.io/badge/-@EjikeOsegbo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EjikeOsegbo)](https://twitter.com/)
+[![facebook Badge](https://img.shields.io/badge/-Benjamin%20Ejike-informational?style=flat-square&labelColor=black&logo=facebook&link=https://www.facebook.com/ejike.ben1)](https://www.facebook.com/ejike.ben1)
 <img src="https://komarev.com/ghpvc/?username=Mov305&label=Profile%20views&color=0e75b6&style=flat" alt="Benjamin" />
 
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me 💬...  
