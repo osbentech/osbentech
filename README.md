@@ -51,13 +51,13 @@ adventure();
 
 ### Github
 
-<!-- ![Benjamin GitHub stats](https://github-readme-stats.vercel.app/api?username=osbentech&show_icons=true&theme=radical)
+![Benjamin GitHub stats](https://github-readme-stats.vercel.app/api?username=osbentech&show_icons=true&theme=radical)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osbentech&layout=compact)](https://github.com/osbentech/)
 <br>
 <br>
-[![Benjamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@osbentech)](https://github.com/osbentech/) -->
+<!-- [![Benjamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@osbentech)](https://github.com/osbentech/) -->
 
 </div>
 
