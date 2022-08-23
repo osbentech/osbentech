@@ -12,7 +12,7 @@
 <h3> Benjamin ⚡ </h3>
 
 ```
-Hi, I am a freelance Web Developer with +3 years of experience 🔭, 
+Hi, I am a freelance Web Developer with +1 years of experience 🔭, 
 a fullstack developer, specializing in Web applications.
 I am NIgerian, born in an urban city called Onitsha, currently residing in Dubai, UAE.
 I love soccer, video games, and coding. Hire me let's work together on your next project😄
@@ -24,7 +24,7 @@ class Benjamin {
     this.definition = [motivated, coder];
   }
   
-  static getUp(){
+  getUp(){
     let everyDay = this.definition.includes(motivated) ? "Today is a great day" : " I'll make today a great day";
     return everyDay
   }
@@ -33,6 +33,9 @@ class Benjamin {
      return this.definition.includes(coder) ? "Let us start a new coding journey together" : " I beleive we can learn something new everyday, my motto is never stop leerning";
   }
 };
+
+getup();
+adventure();
 ```
 <h3 align="center"> My Skills <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40"> <h3> 
 <div align = "center" >
