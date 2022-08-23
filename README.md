@@ -57,7 +57,7 @@ adventure();
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osbentech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
-[![Benjamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@osbentech)](https://github.com/osbentech/-readme-stats)
+[![Benjamin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@osbentech)](https://github.com/osbentech/github-readme-stats)
 
 </div>
 
