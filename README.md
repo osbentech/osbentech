@@ -12,7 +12,7 @@
 <h3> Benjamin ⚡ </h3>
 
 ```
-Hi, I am a freelance Web Developer with 1 year experience 🔭, I specialize in Web applications.
+Hi, I am a freelance Full-stack Developer with 1 year experience 🔭, I specialize in Web applications.
 A student and a coding mentor at microverse school of software development.
 I am from NIgeria, born in an urban city called Onitsha, I currently reside in Dubai, UAE.
 I love soccer, video games, and coding. Hire me let's work together on your next project😄
